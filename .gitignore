@@ -1,3 +1,4 @@
 .venv
 english/db.sqlite3
 english/english/__pycache__/
+english/web/__pycache__/
